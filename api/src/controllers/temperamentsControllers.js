@@ -1,0 +1,1 @@
+const { Temperament } = require("../db");
